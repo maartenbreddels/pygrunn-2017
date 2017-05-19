@@ -3,3 +3,4 @@
  * [vaex](http://vaex.astro.rug.nl) | [vaex github](https://github.com/maartenbreddels/vaex)
  * [ipyvolume docs](https://ipyvolume.readthedocs.io) | [ipyvolume github](https://github.com/maartenbreddels/ipyvolume)
  * [CT scan](http://nbviewer.jupyter.org/github/maartenbreddels/pygrunn-2017/blob/master/CT_3D.ipynb)
+ * [Slide](https://www.slideshare.net/MaartenBreddels/vaex-intropygrunn)
